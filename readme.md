@@ -1,4 +1,4 @@
-# Mesh Rename Bot
+# KC Rename Bot
 
 This bot has a concept of filters which allows to auto-rename the files. This bot is aimed to be the best rename bot around. 
 
@@ -20,7 +20,7 @@ Use of filters is easy just do what the bot says.
 
 # Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yash-dk/Mesh-RenameBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kckhais/KC-Rename-v2-Bot)
 
 
 # Upcoming Features
@@ -89,12 +89,8 @@ update the config.py file inside the MeshRenameBot to change the config and comm
 
 `/queue` - Gives the state of your rename and the load on bot.
 
-# For VPS Deploy
-- Install ffmpeg and python.
-- Run the bot using `python3 -m MeshRenameBot` or `python -m MeshRenameBot`
-
 # Credits
-[Me](https://github.com/yash-dk)
+Thanks for Yash Khadse For His [Mesh-RenameBot](https://github.com/yash-dk/Mesh-RenameBot)
 
 [Dan for Pyrogram](https://github.com/pyrogram/pyrogram)
 
